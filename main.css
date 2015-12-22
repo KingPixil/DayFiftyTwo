@@ -1,4 +1,6 @@
 html, body {
+	display: flex;
+	align-items: center;
   background-color: #d35400;
   padding: 0;
   margin: 0;
