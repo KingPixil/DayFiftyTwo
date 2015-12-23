@@ -39,7 +39,7 @@
         event.stopPropagation();
         $("#reset").hide();
         $(".sub").hide();
-        $(".title").text("Click Away");
+        $(".title").text("Start Clicking");
         $(".timer").text("10");
         sec = $(".timer").text() || 0;
         click = 0;
